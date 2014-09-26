@@ -1,4 +1,4 @@
-[RElEASE] Version 1.0 DATE: 9/26/2014
+[RELEASE] Version 1.0 DATE: 9/26/2014
 
 [DESCRIPTION] 
 
