@@ -1,18 +1,18 @@
-[RELEASE] Version 1.0 DATE: 9/26/2014
+[RELEASE] Version 1.0, DATE: 9/26/2014
 
 [DESCRIPTION] 
 
-TODO is a portable android app helping manage small tasks on a daily basis. This android application supports the following features:
+TODO is a portable android app ultility that funchtions as a task manager that records, archives and email "To do" items. This android application supports the following features:
 
 1. Ability to Record/Add your own Editable tasks 
 2. Ability to Delete previously added/archived tasks
 3. Ability to Archive/UnArchive tasks for later
-4. Ability to Email items, separately, by selection or by bulk. 
+4. Ability to Email items, separately, by selection or by bulk with a long press of a finger. 
 5. Simple and easy-to-understand GUI that focuses on a more user friendly "minimalist" approach.  
 6. Generates a Summary Statistic reporting how many items are Archived/UnArchived and/or are checked/un-checked at any given time.  
 6. [*Working Feature*] Dynamic Persistant Memory Serializing Data storage model * Working feature might be laggy/glitchy but in beta testing at the moment.  
 
-Interactive, lightweight and portable, the TODO app is an ideal choice for those who want a simple android taskManager on their phones.   
+Interactive, lightweight and compact, the TODO app is an ideal choice for those who want a simple android taskManager on their phones.   
 
 [DESIGN]
 
