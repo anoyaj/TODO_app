@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ajwutodo_app.UnArchived_Activity" >
+
+    <item
+        android:id="@+id/see_archived"
+        android:title="@string/archived_setting"/>
+
+    <item
+        android:id="@+id/show_stats"
+        android:title="@string/stat_setting"/>
+
+</menu>
