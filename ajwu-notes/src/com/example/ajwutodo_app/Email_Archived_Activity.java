@@ -65,7 +65,7 @@ public class Email_Archived_Activity extends Activity {
 
 				String task;
 				name = list.get(position).toString();
-				Toast.makeText(Email_Archived_Activity.this, "Added " + name,Toast.LENGTH_SHORT).show();
+				Toast.makeText(Email_Archived_Activity.this, "Added " + "\""+ name +"\"",Toast.LENGTH_SHORT).show();
 				if (list.get(position).checkbox) {
 					checked = "Done";
 				} else {
