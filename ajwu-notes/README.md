@@ -15,14 +15,27 @@ TODO is a portable android app ultility that helps record, archive and email "To
 Interactive, lightweight and compact, the TODO app is an ideal choice for those who want a simple android taskManager on their phones.   
 
 [SCREENSHOTS]
-![Alt text](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Main1.png)
+
+![1. Main Screen: Add Tasks](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Main1.png)
+
+![2. Main Screen Task Action: Archive, Email or Delete a Task](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Main2.png)
+
+![3. Switch Screens: Use the Menu](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Main3.png)
+
+![4. Archived Screen: Archived Tasks](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Arch1.png)
+
+![5. Archive Screen Task Action: UnArchive, Email or Delete Task](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Arch2.png)
+
+![6. Bulk Email Task: Select a number of Tasks](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Main4.png)
+
+![7. Statistics: Summarizes user activity](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Main5.png)
 
 [GUIDE]
 
 - Navigate and cycle through screens (Main Screen and Archived Items Screen) using the Menu. 
-- Tasks are recorded when the item is "added" via pressing the <Add> button in the Main Screen. 
-- To Archive/Delete or Email an individual task, touch the desired task on the screen. This prompts a popup dialog box asking what you want to do with the item: <Email>, <Archive> or <Delete>. Similar options are accesible in the Archived Screen but instead of <Archive> has <UnArchive>.  
-- To Mass/Bulk email a selection or all the tasks, select the <Bulk Email Tasks>. This prompts the user to either choose from a <Selection> or <All Tasks>.  
+- Tasks are recorded when the item is "added" via pressing the Add button in the Main Screen. 
+- To Archive/Delete or Email an individual task, touch the desired task on the screen. This prompts a popup dialog box asking what you want to do with the item: Email, Archive or Delete. Similar options are accesible in the Archived Screen but instead of Archive has UnArchive.  
+- To Mass/Bulk email a selection or all the tasks, select the Bulk Email Tasks. This prompts the user to either choose from a Selection or All Tasks.  
 
 [DESIGN]
 
