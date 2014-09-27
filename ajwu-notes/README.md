@@ -24,7 +24,7 @@ Interactive, lightweight and compact, the TODO app is an ideal choice for those 
 
 ![4. Archived Screen: Archived Tasks](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Arch1.png)
 
-![5. Archive Screen Task Action: UnArchive, Email or Delete Task](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Arch2.png)
+![5. Archive Screen Task Action: UnArchive, Email or Delete Task](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Arch2.jpg)
 
 ![6. Bulk Email Task: Select a number of Tasks](https://github.com/anoyaj/TODO_app/tree/master/ajwu-notes/doc/Main4.png)
 
